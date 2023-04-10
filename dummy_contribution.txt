@@ -15,3 +15,4 @@ Commit on 2023-03-20 09:35:35: ci: Configure CI/CD pipeline for Time-Series-Fore
 Commit on 2023-03-21 12:15:58: refactor: Improve code readability in Time-Series-Forecasting-ML
 Commit on 2023-04-03 14:18:32: feat: Add new feature for Time-Series-Forecasting-ML
 Commit on 2023-04-05 15:45:55: Merge pull request #39 from feature/model-training
+Commit on 2023-04-10 14:12:08: perf: Optimize Time-Series-Forecasting-ML performance
