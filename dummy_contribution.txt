@@ -17,3 +17,4 @@ Commit on 2023-04-03 14:18:32: feat: Add new feature for Time-Series-Forecasting
 Commit on 2023-04-05 15:45:55: Merge pull request #39 from feature/model-training
 Commit on 2023-04-10 14:12:08: perf: Optimize Time-Series-Forecasting-ML performance
 Commit on 2023-04-10 15:42:24: fix: Resolve bug in Time-Series-Forecasting-ML module
+Commit on 2023-04-12 13:22:04: refactor: Improve code readability in Time-Series-Forecasting-ML
