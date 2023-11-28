@@ -63,3 +63,4 @@ Commit on 2023-10-26 11:26:26: Merge pull request #50 from feature/model-trainin
 Commit on 2023-11-08 11:06:03: style: Format code according to standards in Time-Series-Forecasting-ML
 Commit on 2023-11-20 12:02:58: style: Format code according to standards in Time-Series-Forecasting-ML
 Commit on 2023-11-20 12:53:05: build: Update build configuration for Time-Series-Forecasting-ML
+Commit on 2023-11-28 14:00:39: feat: Add new feature for Time-Series-Forecasting-ML
