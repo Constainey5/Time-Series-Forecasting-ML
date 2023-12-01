@@ -65,3 +65,4 @@ Commit on 2023-11-20 12:02:58: style: Format code according to standards in Time
 Commit on 2023-11-20 12:53:05: build: Update build configuration for Time-Series-Forecasting-ML
 Commit on 2023-11-28 14:00:39: feat: Add new feature for Time-Series-Forecasting-ML
 Commit on 2023-11-29 16:36:14: Merge pull request #6 from feature/model-training
+Commit on 2023-12-01 15:48:55: Merge pull request #77 from feature/model-training
