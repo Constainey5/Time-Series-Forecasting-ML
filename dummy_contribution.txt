@@ -93,3 +93,4 @@ Commit on 2024-04-01 09:42:45: fix: Resolve bug in Time-Series-Forecasting-ML mo
 Commit on 2024-04-11 17:51:34: Implement user authentication in Time-Series-Forecasting-ML
 Commit on 2024-04-12 13:59:38: Initial commit for Time-Series-Forecasting-ML
 Commit on 2024-04-16 16:31:41: feat: Add new feature for Time-Series-Forecasting-ML
+Commit on 2024-04-17 17:38:52: ci: Configure CI/CD pipeline for Time-Series-Forecasting-ML
