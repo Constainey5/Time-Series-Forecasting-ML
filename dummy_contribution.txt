@@ -109,3 +109,4 @@ Commit on 2024-05-20 09:49:50: chore: Update dependencies for Time-Series-Foreca
 Commit on 2024-05-21 11:03:48: chore: Update dependencies for Time-Series-Forecasting-ML
 Commit on 2024-05-23 12:41:51: Enhance configuration management in Time-Series-Forecasting-ML
 Commit on 2024-05-29 16:16:38: Enhance model architecture in Time-Series-Forecasting-ML
+Commit on 2024-05-30 11:29:14: Enhance model architecture in Time-Series-Forecasting-ML
