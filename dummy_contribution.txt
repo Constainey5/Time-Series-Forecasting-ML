@@ -112,3 +112,4 @@ Commit on 2024-05-29 16:16:38: Enhance model architecture in Time-Series-Forecas
 Commit on 2024-05-30 11:29:14: Enhance model architecture in Time-Series-Forecasting-ML
 Commit on 2024-05-30 16:21:48: fix: Resolve bug in Time-Series-Forecasting-ML module
 Commit on 2024-06-06 11:22:48: Initial commit for Time-Series-Forecasting-ML
+Commit on 2024-06-11 13:51:23: Merge pull request #73 from feature/model-training
