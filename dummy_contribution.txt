@@ -140,3 +140,4 @@ Commit on 2024-08-21 11:09:50: feat: Add new feature for Time-Series-Forecasting
 Commit on 2024-08-22 10:15:25: Enhance data loader in Time-Series-Forecasting-ML
 Commit on 2024-08-30 12:10:10: fix: Resolve bug in Time-Series-Forecasting-ML module
 Commit on 2024-08-30 16:13:44: ci: Configure CI/CD pipeline for Time-Series-Forecasting-ML
+Commit on 2024-09-04 10:33:48: fix: Resolve bug in Time-Series-Forecasting-ML module
