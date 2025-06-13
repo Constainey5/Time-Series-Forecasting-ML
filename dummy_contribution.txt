@@ -186,3 +186,4 @@ Commit on 2025-05-13 16:52:49: chore: Update dependencies for Time-Series-Foreca
 Commit on 2025-05-16 10:28:11: feat: Add new feature for Time-Series-Forecasting-ML
 Commit on 2025-06-09 10:44:37: style: Format code according to standards in Time-Series-Forecasting-ML
 Commit on 2025-06-10 09:58:46: Initial commit for Time-Series-Forecasting-ML
+Commit on 2025-06-13 09:55:42: test: Add unit tests for Time-Series-Forecasting-ML functionality
