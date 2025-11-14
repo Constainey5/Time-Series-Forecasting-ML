@@ -218,3 +218,4 @@ Commit on 2025-10-08 11:07:03: Implement model evaluation in Time-Series-Forecas
 Commit on 2025-10-08 13:28:45: chore: Update dependencies for Time-Series-Forecasting-ML
 Commit on 2025-10-28 13:56:47: refactor: Improve code readability in Time-Series-Forecasting-ML
 Commit on 2025-10-29 13:49:59: test: Add unit tests for Time-Series-Forecasting-ML functionality
+Commit on 2025-11-14 12:32:15: Enhance frontend in Time-Series-Forecasting-ML
