@@ -268,3 +268,4 @@ Commit on 2026-08-04 11:10:33: fix: Resolve bug in Time-Series-Forecasting-ML mo
 Commit on 2026-08-04 12:56:19: chore: Update dependencies for Time-Series-Forecasting-ML
 Commit on 2026-08-24 10:50:26: Merge pull request #54 from feature/error-handling
 Commit on 2026-08-25 11:25:27: style: Format code according to standards in Time-Series-Forecasting-ML
+Commit on 2026-08-26 10:36:35: docs: Update README for Time-Series-Forecasting-ML
